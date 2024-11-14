@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "68ffe05809323768",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9459ebb7f0d618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "106605f334a290e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bf48c5552d0a8d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eef3016cb87c142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a99fef68d1a37e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "762e9ec0e6541eeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "5ff08cfda3314bc8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "6f9dd30030ae3159",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab821a11d1ad9a2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ec5ad02b85a6cf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kevgir/1)Netdiscover.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1)Netdiscover için geri bağlantılar"
+            }
+          },
+          {
+            "id": "3a8d89c7fde96b8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kevgir/1)Netdiscover.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1)Netdiscover'dan giden bağlantılar"
+            }
+          },
+          {
+            "id": "2a3d6f9d27d20296",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "908ac84567a60004",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kevgir/1)Netdiscover.md"
+              },
+              "icon": "lucide-list",
+              "title": "1)Netdiscover ana hatları"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false
+    }
+  },
+  "active": "9a99fef68d1a37e4",
+  "lastOpenFiles": [
+    "1.Hafta",
+    "Mr Robots/Yetki Yükseltme/Yetki Yükseltme.md",
+    "Kenobi/Kenobi.md",
+    "Kenobi/Servisler hakkında detay ve Sızma/Samba smbclient.md",
+    "Kenobi/Servisler hakkında detay ve Sızma/RPC.md",
+    "Kenobi/Servisler hakkında detay ve Sızma/id_rsa.md",
+    "Kenobi/Servisler hakkında detay ve Sızma/FTP.md",
+    "Kenobi/Ağ Tarama/Nmap.md",
+    "Basic Pentesting/Basic Pentesing 1.md",
+    "Basic Pentesting/Servisler hakkında detay ve Sızma/80 HTTP.md",
+    "Basic Pentesting/Servisler hakkında detay ve Sızma/21 FTP.md",
+    "Basic Pentesting/Ağ taraması/Nmap.md",
+    "Basic Pentesting/Ağ taraması/NetDiscover.md",
+    "Kullanılan Araçlar  ve Dökümanlar/12 ) LİNUX PRIVILIGE ESCALATION.md",
+    "img/Kernel.png",
+    "Kevgir/Servisler hakkında detay ve Sızma/1322 SSH.md",
+    "Kevgir/Servisler hakkında detay ve Sızma/80 Apache httpd 2.4.7.md",
+    "Kevgir/Servisler hakkında detay ve Sızma/25 FTP vsftpd 3.0.2.md",
+    "Kevgir/Servisler hakkında detay ve Sızma/8081 Joomla.md",
+    "Kevgir/Servisler hakkında detay ve Sızma/8080 Apache Tomcat.md",
+    "Kullanılan Araçlar  ve Dökümanlar/11) Reverse  ve Bind Shell.md",
+    "Kullanılan Araçlar  ve Dökümanlar/10) John The Ripper.md",
+    "Kullanılan Araçlar/10) Hashcat.md",
+    "Kullanılan Araçlar  ve Dökümanlar/9) Gobuster.md",
+    "Kullanılan Araçlar  ve Dökümanlar/8) Ffuf.md",
+    "Penetration test.md",
+    "Pasif Bilgi Toplama/Aktif ve Pasif Bilgi Toplama.md",
+    "Mr Robots/Yetki Yükseltme",
+    "img/MrRobotswordpress.png",
+    "img/Wordpress shell.png",
+    "img/WordpressLogin.png",
+    "Pasted image 20241029193648.png",
+    "Mr Robots/Sızma",
+    "Mr Robots/Keşif",
+    "Mr Robots/Ağ Tarama",
+    "Kullanılan Araçlar  ve Dökümanlar",
+    "~$zma Testi Nedir.docx",
+    "~WRL3525.tmp",
+    "~WRD3517.tmp",
+    "~WRL2991.tmp",
+    "~WRD2987.tmp",
+    "img/BasicPentest wordpress.png",
+    "img/BasicPentest Admin.png",
+    "Pasted image 20241023093536.png",
+    "img/BasicPentesinghttp.png",
+    "img/smclient_log.txt.png"
+  ]
+}
